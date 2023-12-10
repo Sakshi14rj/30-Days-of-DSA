@@ -1,7 +1,7 @@
-import java.util.*;
-import java.util.Arrays;
+//import java.util.*;
 
-public class Searching {
+
+//public class Searching {
 //    public static void main(String[] args) {
 //        String name = "Sakshi";
 //        char target = 'i';
